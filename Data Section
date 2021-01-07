@@ -1,0 +1,7 @@
+The data that I will be using for this project will be taken from the following website : "https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M" ;
+It contains detailed information about the Neighbourhoods of Toronto ;
+I will use the following to download the geospatial data of the Neighbourhoods and combine it with the previous data "http://cocl.us/Geospatial_data" ;
+Please have a look at "Coursera_Capstone(2).ipynb" located in this repository. There you can see the details about the above mentioned ;
+Lastly, I will youse Foursquare location data in order to achieve my goal set in the previous task ;
+This concludes all the data necessary for the completion of this project ;
+Thank you for your attention.
